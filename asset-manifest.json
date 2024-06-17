@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Netflix-clone/static/css/main.db0972e1.css",
+    "main.js": "/Netflix-clone/static/js/main.ada101d3.js",
+    "static/js/453.ed3810f9.chunk.js": "/Netflix-clone/static/js/453.ed3810f9.chunk.js",
+    "static/media/hero_banner.jpg": "/Netflix-clone/static/media/hero_banner.83badbd673866f1cf0ec.jpg",
+    "static/media/netflix_spinner.gif": "/Netflix-clone/static/media/netflix_spinner.7517415e575521b3249f.gif",
+    "static/media/background_banner.jpg": "/Netflix-clone/static/media/background_banner.303a83aff58191b99963.jpg",
+    "static/media/hero_title.png": "/Netflix-clone/static/media/hero_title.fb7d28ec479a34f01d58.png",
+    "static/media/card4.jpg": "/Netflix-clone/static/media/card4.0e4eb9de88929e2d3e7e.jpg",
+    "static/media/card8.jpg": "/Netflix-clone/static/media/card8.34b5a059fb0cb64a33fc.jpg",
+    "static/media/card5.jpg": "/Netflix-clone/static/media/card5.8c951c6a125ef8451f2c.jpg",
+    "static/media/card7.jpg": "/Netflix-clone/static/media/card7.8c2b761d7e73390b15ec.jpg",
+    "static/media/card6.jpg": "/Netflix-clone/static/media/card6.d0c93712cfa17dd416c7.jpg",
+    "static/media/card2.jpg": "/Netflix-clone/static/media/card2.0c0d50c80eb3eb34435c.jpg",
+    "static/media/card9.jpg": "/Netflix-clone/static/media/card9.f9a7d57bc2269bb2268c.jpg",
+    "static/media/card1.jpg": "/Netflix-clone/static/media/card1.6b084d91711d2cdc9bda.jpg",
+    "static/media/Netflix_Logo.png": "/Netflix-clone/static/media/Netflix_Logo.f4070143e1f521da82a1.png",
+    "index.html": "/Netflix-clone/index.html",
+    "main.db0972e1.css.map": "/Netflix-clone/static/css/main.db0972e1.css.map",
+    "main.ada101d3.js.map": "/Netflix-clone/static/js/main.ada101d3.js.map",
+    "453.ed3810f9.chunk.js.map": "/Netflix-clone/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0972e1.css",
+    "static/js/main.ada101d3.js"
+  ]
+}
