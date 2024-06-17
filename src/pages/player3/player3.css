@@ -1,0 +1,23 @@
+.player3{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.player3 img{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 50px;
+    cursor: pointer;
+}
+.player3 iframe{
+    border-radius: 10px;
+}
+.player3-info{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    width: 90%;
+}
